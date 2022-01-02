@@ -72,7 +72,7 @@
           {/if}
           {#if fromMain}
             <div>
-              <h4 class=" text-red-500">{fromMain}</h4>
+              <h4 class=" text-yellow-200">{fromMain}</h4>
             </div>
           {/if}
         </div>

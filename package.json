@@ -4,7 +4,7 @@
   "license": "MIT",
   "main": "build/electron/index.js",
   "author": {
-    "name": "KryptoPX",
+    "name": "KryptoPX"
   },
   "description": "Starter using Vite 2 + Svelte + Typescript + Electron for fast prototyping.",
   "keywords": [
@@ -27,7 +27,7 @@
     "dist": "npm run build && electron-builder",
     "pack": "npm run build && electron-builder --dir",
     "clean": "rimraf dist main src/out",
-    "type-check": "svelte-check --tsconfig ./tsconfig.json && tsc",
+    "type-check": "svelte-check --tsconfig ./tsconfig.json && tsc"
   },
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^1.0.0-next.30",

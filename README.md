@@ -1,6 +1,6 @@
 # Vite + Svelte + Typescript + Electron - Starter
 
-![Vite + Svelte + Typescript + Tailwind + Electron Starter](Screenshot.jpg)
+![Vite + Svelte + Typescript + Tailwind + Electron Starter](Screenshot.png)
 
 > It is a simple starter tempalte without unnecessary packages.
 
