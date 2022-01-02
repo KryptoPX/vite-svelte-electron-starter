@@ -6,7 +6,7 @@
 
 This very simple Starter template, utilizes [Vite](https://github.com/vitejs/vite), [Tailwind](https://tailwindcss.com/), [Svelte](https://svelte.dev/), [Typescript](https://www.typescriptlang.org/) and [Electron](https://electronjs.org/).
 
-By default, the svelte framework is used for the interface, but you can easily use any other framework such as Vue, Preact, Angular, Svelte or anything else.
+By default, the svelte framework is used for the interface, but you can easily use any other framework such as Vue, Preact, Angular, React or anything else.
 
 > Vite is framework agnostic
 
