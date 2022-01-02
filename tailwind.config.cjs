@@ -1,7 +1,8 @@
-module.exports = {
-  content: ['./src/index.html', './src/**/*.{vue,js,ts,jsx,tsx}'],
+const config = {
+  content: ["./src/**/*.{html,js,svelte,ts}"],
+
   theme: {
-    extend: {}
+    extend: {},
   },
   variants: {
     extend: {},
@@ -9,5 +10,7 @@ module.exports = {
       sans: ['Inter', 'ui-sans-serif', 'system-ui']
     }
   },
-  plugins: []
+  plugins: [],
 };
+
+module.exports = config;
